@@ -105,6 +105,7 @@ Plugins/UnrealGuidFixer 1.2/Source/GuidFixer/Public/GuidFixer.h
 Plugins/UnrealGuidFixer 1.2/Source/GuidFixer/Public/GuidFixerCommands.h
 Plugins/UnrealGuidFixer 1.2/Source/GuidFixer/Public/GuidFixerStyle.h
 Config/DefaultNiagara.ini
+Config/DefaultEditor.ini
 Content/Megascans/3D_Assets/Sandstone_Boulder_vmiibev/MI_Sandstone_Boulder_vmiibev_8K.uasset
 Content/Megascans/3D_Assets/Sandstone_Boulder_vmiibev/T_Sandstone_Boulder_vmiibev_8K_D.uasset
 Content/Megascans/3D_Assets/Sandstone_Boulder_vmiibev/T_Sandstone_Boulder_vmiibev_8K_N.uasset
